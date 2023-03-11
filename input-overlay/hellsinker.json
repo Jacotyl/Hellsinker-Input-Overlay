@@ -1,0 +1,169 @@
+{
+    "default_width": 0,
+    "default_height": 0,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 4,
+    "overlay_width": 279,
+    "overlay_height": 102,
+    "elements": [
+        {
+            "type": 8,
+            "pos": [
+                0,
+                12
+            ],
+            "id": "dpad0",
+            "z_level": 0,
+            "mapping": [
+                2,
+                106,
+                81,
+                90
+            ]
+        },
+        {
+            "type": 6,
+            "pos": [
+                82,
+                24
+            ],
+            "id": "trigger1",
+            "z_level": 0,
+            "mapping": [
+                197,
+                12,
+                35,
+                18
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 0
+        },
+        {
+            "type": 2,
+            "pos": [
+                214,
+                78
+            ],
+            "id": "gamepad button1",
+            "z_level": 0,
+            "mapping": [
+                197,
+                12,
+                35,
+                18
+            ],
+            "code": 0
+        },
+        {
+            "type": 2,
+            "pos": [
+                170,
+                60
+            ],
+            "id": "gamepad button2",
+            "z_level": 0,
+            "mapping": [
+                197,
+                12,
+                35,
+                18
+            ],
+            "code": 1
+        },
+        {
+            "type": 6,
+            "pos": [
+                126,
+                42
+            ],
+            "id": "trigger3",
+            "z_level": 0,
+            "mapping": [
+                197,
+                12,
+                35,
+                18
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 1
+        },
+        {
+            "type": 0,
+            "pos": [
+                84,
+                16
+            ],
+            "id": "texture5",
+            "z_level": 0,
+            "mapping": [
+                244,
+                14,
+                43,
+                8
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                128,
+                34
+            ],
+            "id": "texture6",
+            "z_level": 0,
+            "mapping": [
+                245,
+                33,
+                76,
+                9
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                171,
+                50
+            ],
+            "id": "texture7",
+            "z_level": 0,
+            "mapping": [
+                244,
+                49,
+                73,
+                12
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                215,
+                69
+            ],
+            "id": "texture8",
+            "z_level": 0,
+            "mapping": [
+                245,
+                64,
+                64,
+                11
+            ]
+        },
+        {
+            "type": 0,
+            "pos": [
+                23,
+                0
+            ],
+            "id": "texture9",
+            "z_level": 0,
+            "mapping": [
+                337,
+                11,
+                35,
+                11
+            ]
+        }
+    ]
+}
